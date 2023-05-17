@@ -1,2 +1,2 @@
 # PracticaOptativaDIW
-Segunda Práctica optativa realizada en figma, html y css.
+Boletín PHP por Gustavo Nieto.
